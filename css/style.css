@@ -1,0 +1,31 @@
+body {
+  font-family: 'Gudea', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  background: url("../images/main-bg.png") no-repeat top left #080f17;
+  background-size: cover;
+  color: #fff;
+  background-attachment: fixed; }
+  body p {
+    color: #888;
+    letter-spacing: 0.025em; }
+  body header.header {
+    margin-top: 120px;
+    margin-bottom: 130px; }
+    body header.header h1 {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 4em;
+      margin-bottom: 30px; }
+  body .main-content {
+    max-width: 850px;
+    margin: 0 auto; }
+    body .main-content li img {
+      width: 100%; }
+    body .main-content li a {
+      margin: 20px;
+      display: block; }
+    body .main-content hr {
+      margin: 100px 0;
+      border-color: #252525; }
+
+/*# sourceMappingURL=style.css.map */
